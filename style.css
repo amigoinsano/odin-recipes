@@ -1,0 +1,43 @@
+html {
+  background-color: rgb(245, 245, 245);
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+h1 {
+  border-style: dotted;
+  border-width: 0.1em;
+  border-color: rgb(209, 189, 158);
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+ul,
+ol {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  border: 0.1em solid #eee;
+  padding: 0.3em;
+}
+
+#recipe-list {
+  list-style: none;
+}
+
+#recipe-list li {
+  margin: 0.2em;
+}
